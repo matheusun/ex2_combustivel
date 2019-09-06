@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mescolha</string>
+    <string name="melhor_opcao">É melhor usar ...</string>
+    <string name="preco_etanol">Preço do etanol</string>
+    <string name="preco_gasolina">Preço da gasolina</string>
+    <string name="total_div">Total</string>
+</resources>

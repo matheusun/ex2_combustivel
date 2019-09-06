@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bchoice</string>
+    <string name="preco_gasolina">Petrol Price</string>
+    <string name="preco_etanol">Ethanol Price</string>
+    <string name="melhor_opcao">"It is better to use ... "</string>
+    <string name="total_div">Total</string>
+</resources>

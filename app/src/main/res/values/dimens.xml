@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad">12dp</dimen>
+    <dimen name="dimen">40dp</dimen>
+    <item name="imgHW" type="dimen">50%</item>
+</resources>

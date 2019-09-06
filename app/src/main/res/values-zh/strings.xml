@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">更好选择</string>
+    <string name="melhor_opcao">最好使用......</string>
+    <string name="preco_etanol">乙醇价格</string>
+    <string name="preco_gasolina">汽油价格</string>
+    <string name="total_div">总</string>
+</resources>
